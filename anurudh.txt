@@ -7,7 +7,5 @@ Font Management Software
 	- Provide an ease to organisation their fonts on structures like Font Usgae, Classification, etc.
 3.Customers often need to share collection of fonts (subscription+own) internally/externally.
 	- Proof copy or sample copy needs to be shared for approval with the maximumn options available.
-4.No overview of font licensing at one place. Its spread across portals and softwares.
-	- For enterprise level, it should provide a way to get the info about the font licenses, it usage.
-	- A high level of data that provides information on the popularity of the fonts would be helpful.
-5.Missing fonts in documents.
+Deleted row 4 & 5
+NOte - Lets see how this works.
