@@ -1,0 +1,13 @@
+Customer Pain Points and Expectations from Font Management Solution
+
+Font Management Software
+1.As of now customers need to access their fonts from several places.
+	- Multiple Web sites, Skyfonts, Toolkit and FEX Server (Distrubution framework provided by the organisation)
+2.Customers need some fonts from subscription and some fonts from their own collection.
+	- Provide an ease to organisation their fonts on structures like Font Usgae, Classification, etc.
+3.Customers often need to share collection of fonts (subscription+own) internally/externally.
+	- Proof copy or sample copy needs to be shared for approval with the maximumn options available.
+4.No overview of font licensing at one place. Its spread across portals and softwares.
+	- For enterprise level, it should provide a way to get the info about the font licenses, it usage.
+	- A high level of data that provides information on the popularity of the fonts would be helpful.
+5.Missing fonts in documents.
