@@ -1,4 +1,4 @@
-Customer Pain Points and Expectations from Font Management Solution
+oCustomer Pain Points and Expectations from Font Management Solution
 
 Font Management Software
 1.As of now customers need to access their fonts from several places.
@@ -9,13 +9,12 @@ Font Management Software
 	- Proof copy or sample copy needs to be shared for approval with the maximumn options available.
 4. This is point #4
 - Nothing to wrie in it
-5. This is point #5
-- This should be saved to from-Master branch
-6. This is point #6
-- Nothing to wrie in it
+
 7. This is point #7
 - This should be saved to from-Master branch
+=======
+- Nothing to wwite in it
 
-Added point 6 and 7 
+Added point 4 and 7 to from-Master
 Thanks you
 Done
