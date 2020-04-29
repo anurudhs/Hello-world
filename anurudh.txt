@@ -11,6 +11,11 @@ Font Management Software
 - Nothing to wrie in it
 5. This is point #5
 - This should be saved to from-Master branch
+6. This is point #6
+- Nothing to wrie in it
+7. This is point #7
+- This should be saved to from-Master branch
 
+Added point 6 and 7 
 Thanks you
 Done
